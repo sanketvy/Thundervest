@@ -44,4 +44,4 @@ Below is the high level architecture diagram for Thundervest. The application wi
 
 ### Contact
 
-If you are intrested in the project and what to know more about the project, want to contribute to the project or hire me as a software developer, drop a mail at srvyawahare18@gmail.com
+If you are intrested in the project and want to know more about the project, want to contribute to the project or hire me as a software developer, drop a mail at srvyawahare18@gmail.com
