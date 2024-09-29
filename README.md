@@ -17,3 +17,22 @@ Below is the high level architecture diagram for Thundervest. The application wi
 `Tools` - Figma, Draw.io, Youtrack, Maven, IDEA Ultimate
 
 `Pipeline & Infrastructure` - Kafka, Redis, MongoDB, PostgreSQL, Jenkins, SonarQube, Tomcat, Docker, Kubernetes, AWS EC2
+
+### Microservices Source Codes Repositories :
+**User MS** : https://github.com/sanketvy/Thundervest-User-MS
+
+**Profile MS** : https://github.com/sanketvy/Thundervest-Profile-MS
+
+**Payment MS** : https://github.com/sanketvy/Thundervest-Payment-MS
+
+**Orders MS** : https://github.com/sanketvy/Thundervest-Orders-MS
+
+**Notification MS** : https://github.com/sanketvy/Thundervest-Notification-MS
+
+**Inventory MS** : https://github.com/sanketvy/Thundervest-Inventory-MS
+
+**Discovery Server MS** : https://github.com/sanketvy/Thundervest-Discovery-MS
+
+**Config Server MS** : https://github.com/sanketvy/Thundervest-Config-MS
+
+**API Gateway MS** : https://github.com/sanketvy/Thundervest-APIGW-MS
