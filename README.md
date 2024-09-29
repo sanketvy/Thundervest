@@ -40,3 +40,8 @@ Below is the high level architecture diagram for Thundervest. The application wi
 **Config Server MS** : https://github.com/sanketvy/Thundervest-Config-MS
 
 **API Gateway MS** : https://github.com/sanketvy/Thundervest-APIGW-MS
+
+
+### Contact
+
+If you are intrested in the project and what to know more about the project, want to contribute to the project or hire me as a software developer, drop a mail at srvyawahare18@gmail.com
