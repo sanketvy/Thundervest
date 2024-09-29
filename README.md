@@ -10,7 +10,10 @@ Below is the high level architecture diagram for Thundervest. The application wi
 
 ### Tech Stack :
 
-##### Backend - Java 21, Spring Boot 3, Spring Security 6, Spring Cloud
-##### Frontend - HTML, Tailwind CSS, JavaScript, ReactJS, React Icons
-##### Tools - Figma, Draw.io, Youtrack, Maven, IDEA Ultimate
-##### Pipeline & Infrastructure - Kafka, Redis, MongoDB, PostgreSQL, Jenkins, SonarQube, Tomcat, Docker, Kubernetes, AWS EC2
+`Backend` - Java 21, Spring Boot 3, Spring Security 6, Spring Cloud
+
+`Frontend` - HTML, Tailwind CSS, JavaScript, ReactJS, React Icons
+
+`Tools` - Figma, Draw.io, Youtrack, Maven, IDEA Ultimate
+
+`Pipeline & Infrastructure` - Kafka, Redis, MongoDB, PostgreSQL, Jenkins, SonarQube, Tomcat, Docker, Kubernetes, AWS EC2
